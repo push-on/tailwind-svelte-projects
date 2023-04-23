@@ -16,7 +16,6 @@
   <div class="p-4 grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
     {#each list as img}
       <img src={img} alt="" class="rounded-lg" />
-      
     {/each}
   </div>
 </div>
