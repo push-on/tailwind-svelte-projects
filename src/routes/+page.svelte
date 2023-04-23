@@ -1,5 +1,5 @@
 <div>
-  <h1 class="text-3xl font-bold text-center mt-5">My Tailwind Projects</h1>
+  <h1 class="text-3xl font-bold text-center mt-5">💨 Tailwind Projects</h1>
   <!-- list of pages in tailwind css grid -->
   <div class="grid sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 p-5 m-5 gap-2 border font-mono text-3xl whitespace-nowrap">
     <a

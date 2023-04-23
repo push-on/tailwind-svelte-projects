@@ -7,7 +7,7 @@
 <!-- BG Container -->
 <div class="min-h-screen flex justify-center items-center">
   <!-- Card -->
-  <div class="p-2 mx-6 bg-slate-700 rounded-2xl shadow-xl shadow-black/50">
+  <div class="p-2 mx-6 bg-slate-900 rounded-2xl shadow-xl shadow-black/50">
     <!-- flex container -->
     <div class="flex flex-col md:flex-row rounded-l-xl">
       <!-- Image -->
