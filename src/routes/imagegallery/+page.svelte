@@ -1,14 +1,14 @@
 <script>
   import HomeLink from "$lib/HomeLink.svelte"
-  import image1 from "$lib/assets/imgs/1.jpg"
-  import image2 from "$lib/assets/imgs/2.jpg"
-  import image3 from "$lib/assets/imgs/3.jpg"
-  import image4 from "$lib/assets/imgs/4.jpg"
-  import image5 from "$lib/assets/imgs/5.jpg"
-  import image6 from "$lib/assets/imgs/6.jpg"
+  import img1 from "$lib/assets/imgs/1.jpg"
+  import img2 from "$lib/assets/imgs/2.jpg"
+  import img3 from "$lib/assets/imgs/3.jpg"
+  import img4 from "$lib/assets/imgs/4.jpg"
+  import img5 from "$lib/assets/imgs/5.jpg"
+  import img6 from "$lib/assets/imgs/6.jpg"
 
 
-  let list = [image1, image2, image3, image4, image5, image6]
+  let list = [img1, img2, img3, img4, img5, img6]
 </script>
 
 <HomeLink />
