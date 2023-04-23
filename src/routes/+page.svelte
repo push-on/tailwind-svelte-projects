@@ -1,4 +1,4 @@
-<h1 class="text-3xl font-bold text-center mt-5">Tailwind Projects</h1>
+<h1 class="text-5xl font-bold text-center mt-5">Tailwind Projects</h1>
 <div class="flex justify-center">
   <!-- list of pages in tailwind css grid -->
   <div
