@@ -4,10 +4,16 @@
 </script>
 
 <HomeLink />
+<nav class="h-16 border-b-4 p-2 border-slate-800">
+  <h1 class="text-3xl font-bold text-center mr-5">
+    
+    @Emil Sub
+  </h1>
+</nav>
 <!-- BG Container -->
 <div class="min-h-screen flex justify-center items-center">
   <!-- Card -->
-  <div class="p-2 mx-6 bg-slate-900 rounded-2xl shadow-xl shadow-black/50">
+  <div class="p-2 mx-6 bg-slate-800 rounded-2xl shadow-2xl shadow-black">
     <!-- flex container -->
     <div class="flex flex-col md:flex-row rounded-l-xl">
       <!-- Image -->
@@ -28,11 +34,11 @@
         </p>
         <!-- Email Submit -->
         <div
-          class="flex flex-col md:flex-row mt-5 space-y-4 md:space-x-3 md:space-y-0">
+          class="flex flex-col md:flex-row mt-5 space-y-4 md:space-x-3 md:space-y-0 ">
           <input
             type="text"
             placeholder="Enter your email address"
-            class="flex-grow px-2 py-3 bg-slate-800 text-slate-50 border-none outline-none rounded-md text-center" />
+            class="flex-grow px-2 py-3 bg-slate-800 text-slate-50 border-none outline-none rounded-md " />
           <button
             class="bg-emerald-600 rounded-md px-5 py-3 text-sm hover:bg-emerald-700 duration-300"
             >Subscribe

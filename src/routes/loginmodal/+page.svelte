@@ -6,12 +6,17 @@
 </script>
 
 <HomeLink />
+
+<nav class="h-16 border-b-4 p-2 border-slate-800">
+  <h1 class="text-3xl font-bold text-center mr-5">login Modal</h1>
+</nav>
 <!-- Global Container -->
 <div class="h-screen flex justify-center items-center">
   <!-- Card Container -->
   <div class=" flex bg-slate-800 rounded-xl relative">
+    <!-- x cross -->
     <div
-      class="group absolute bg-slate-700 hover:bg-slate-600 cursor-pointer text-slate-50 rounded-full p-1 right-3 top-3">
+      class="group absolute bg-slate-700 hover:bg-rose-500 cursor-pointer text-slate-50 rounded-full p-1 right-3 top-3">
       <svg
         class="w-6 h-6 duration-500 group-hover:rotate-180"
         fill="none"
@@ -77,6 +82,6 @@
     <img
       src={background}
       alt=""
-      class=" w-96 object-cover rounded-r-xl hidden md:block" />
+      class=" w-96 object-cover rounded-r-xl hidden lg:block" />
   </div>
 </div>

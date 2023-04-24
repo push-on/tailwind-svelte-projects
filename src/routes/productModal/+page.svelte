@@ -4,11 +4,14 @@
 </script>
 
 <HomeLink />
+<nav class="h-16 border-b-4 p-2 border-slate-800">
+  <h1 class="text-3xl font-bold text-center mr-5">📦Product Modal</h1>
+</nav>
 <!-- Global Container -->
 <div class="flex items-center justify-center min-h-screen">
   <!-- Card Container -->
   <div
-    class="flex flex-col p-6 m-3 space-y-10 bg-slate-900 rounded-2xl shadow-2xl md:flex-row md:space-y-0 md:space-x-10 md:m-0 md:p-16">
+    class="flex flex-col p-6 m-3 space-y-10 bg-slate-800 rounded-2xl shadow-2xl shadow-black md:flex-row md:space-y-0 md:space-x-10 md:m-0 md:p-16">
     <!-- Image Div -->
     <div>
       <img

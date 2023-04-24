@@ -4,6 +4,9 @@
 </script>
 
 <HomeLink/>
+<nav class="h-16 border-b-4 p-2 border-slate-800">
+  <h1 class="text-3xl font-bold text-center mr-5">$Pricing Cards</h1>
+</nav>
 <!-- Global Container -->
 <div class="min-h-screen flex justify-center items-center">
   <!-- Card Container -->
