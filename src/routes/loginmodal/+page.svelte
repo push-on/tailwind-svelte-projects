@@ -11,9 +11,9 @@
   <h1 class="text-3xl font-bold text-center mr-5">login Modal</h1>
 </nav>
 <!-- Global Container -->
-<div class="h-screen flex justify-center items-center">
+<div class="h-screen flex justify-center items-center ">
   <!-- Card Container -->
-  <div class=" flex bg-slate-800 rounded-xl relative">
+  <div class=" flex bg-slate-800 rounded-xl relative shadow-2xl shadow-black">
     <!-- x cross -->
     <div
       class="group absolute bg-slate-700 hover:bg-rose-500 cursor-pointer text-slate-50 rounded-full p-1 right-3 top-3">
