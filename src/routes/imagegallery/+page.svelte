@@ -5,7 +5,7 @@
   let images: string[] = []
 
   onMount(async () => {
-    const imageFiles = import.meta.glob("../../imgs/*.{webp}")
+    const imageFiles = import.meta.glob("../../imgs/*")
     for (const path in imageFiles) {
       const image: any = await imageFiles[path]()
       images = [...images, image.default]
