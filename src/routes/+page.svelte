@@ -1,9 +1,9 @@
 <script>
-  import emailSub from "$lib/thumbnails/email.png"
-  import imagegallery from "$lib/thumbnails/imagegallary.png"
-  import modal from "$lib/thumbnails/modal.png"
-  import priceCard from "$lib/thumbnails/pricecard.png"
-  import signup from "$lib/thumbnails/signup.png"
+  import emailSub from "$lib/thumbnails/email.webp"
+  import imagegallery from "$lib/thumbnails/imagegallary.webp"
+  import modal from "$lib/thumbnails/modal.webp"
+  import priceCard from "$lib/thumbnails/pricecard.webp"
+  import signup from "$lib/thumbnails/signup.webp"
 </script>
 
 <div class="flex flex-col space-y-4 border-b-2 border-blue-50/10 pb-2">
